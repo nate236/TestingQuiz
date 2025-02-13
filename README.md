@@ -11,7 +11,7 @@ our assignment this week underscores the importance of ensuring reliability and 
 - [Questions](#questions)
 ## Usage
 
-- Github repo: <https://github.com/nate236/NOSQL>
+- Github repo: <https://github.com/nate236/TestingQuiz>
 
 ## Contribution
 Nathan Kelley
