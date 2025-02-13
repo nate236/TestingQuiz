@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "es6"],
+      "types": ["cypress", "node"],
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "skipLibCheck": true,
+      "allowJs": true
+    },
+    "include": [
+      "**/*.{ts,tsx,js,jsx}"
+    ]
+  }
+  
